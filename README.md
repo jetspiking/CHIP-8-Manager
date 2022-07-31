@@ -26,5 +26,5 @@ Download and launch the executable "CHIP8Manager_[platform].exe". The program is
 
 # Overview
 <img src="https://github.com/jetspiking/CHIP-8-Manager/Images/ManagerWindowEmpty.png" width="500">
-<img src="https://github.com/jetspiking/CHIP-8-Manager/Images/EmulatorRunning.png" width="500">
+<img src="https://github.com/jetspiking/CHIP-8-Manager/main/Images/EmulatorRunning.png" width="500">
 
