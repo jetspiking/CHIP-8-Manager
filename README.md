@@ -25,6 +25,5 @@ Download and launch the executable "CHIP8Manager_[platform].exe". The program is
 [Releases](https://github.com/jetspiking/CHIP-8-manager/releases)
 
 # Overview
-<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/ManagerWindowEmpty.png?raw=true" width="640">
 <img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/EmulatorIBM.png?raw=true" width="640">
 
