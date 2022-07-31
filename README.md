@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/jetspiking/CHIP-8-Manager.svg)]()
 
 # CHIP-8-Manager
-<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/ManagerWindowFilled.png" width="400">
+<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/ManagerWindowFilled.png" width="500">
 A CHIP-8 manager that allows creating virtual CHIP-8 machines. 
 
 # Description
@@ -21,9 +21,9 @@ CHIP-8-Manager allows managing virtual CHIP-8 machines. Functions include:
 5. Delay timer
 
 # Usage
-Download and launch the executable "CHIP8Manager_[platform].exe". The program is portable.
+Download and launch the executable "CHIP8Manager_[Platform].exe". The program is portable.
 [Releases](https://github.com/jetspiking/CHIP-8-manager/releases)
 
 # Overview
-<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/EmulatorIBM.png?raw=true" width="400">
+<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/EmulatorRunning.png?raw=true" width="500">
 
