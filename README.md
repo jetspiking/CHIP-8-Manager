@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/jetspiking/CHIP-8-Manager.svg)]()
 
 # CHIP-8-Manager
-<img src="https://github.com/jetspiking/CHIP-8-Manager/Images/ManagerWindowFilled.png" width="500">
+<img src="https://github.com/jetspiking/CHIP-8-Manager/Images/ManagerWindowFilled.png" width="640">
 A CHIP-8 manager that allows creating virtual CHIP-8 machines. 
 
 # Description
@@ -25,6 +25,6 @@ Download and launch the executable "CHIP8Manager_[platform].exe". The program is
 [Releases](https://github.com/jetspiking/CHIP-8-manager/releases)
 
 # Overview
-<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/ManagerWindowEmpty.png?raw=true">
-<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/EmulatorRunning.png?raw=true">
+<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/ManagerWindowEmpty.png?raw=true" width="640">
+<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/EmulatorIBM.png?raw=true" width="640">
 
