@@ -27,3 +27,7 @@ Download and launch the executable "CHIP8Manager_[Platform].exe". The program is
 # Overview
 <img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/EmulatorRunning.png?raw=true" width="800">
 
+# Thank you for using CHIP-8-Manager
+If you enjoy CHIP-8-Manager and you feel like you want to support me extra, you could consider buying me a drink by navigating to my Buy Me A Coffee account.
+
+<a href="https://www.buymeacoffee.com/DustinHendriks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
