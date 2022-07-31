@@ -1,0 +1,55 @@
+﻿namespace CHIP8Manager.Utilities
+{
+    /// <summary>
+    /// Provides a list of images that can be used in this project. 
+    /// </summary>
+    public enum Images
+    {
+        AutoPlay,
+        AutoRun,
+        Calculator,
+        Chip8,
+        Cmd,
+        Delete,
+        DiskDrive,
+        Envelope,
+        Error,
+        FlagBlue,
+        FlagGreen,
+        FlagPurple,
+        FlagRed,
+        FlagYellow,
+        FloppyDisk,
+        HardDrive,
+        Help,
+        Info,
+        Keyboard,
+        Lightbulb,
+        MinusBlue,
+        Monitor,
+        Move,
+        PaperClipBlue,
+        PaperClipGrey,
+        Pen,
+        Pencil,
+        PlusGreen,
+        Ram,
+        Search,
+        StopWatch,
+        Tip,
+        ArrowBlueDownBig,
+        ArrowBlueLeftBig,
+        ArrowBlueRightBig,
+        ArrowBlueUpBig,
+        ArrowGreenDownBig,
+        ArrowGreenLeftBig,
+        ArrowGreenRightBig,
+        ArrowGreenUpBig,
+        BlankCd,
+        Gear,
+        SetupInstall,
+        ArrowCurveBlueLeft,
+        ArrowCurveBlueRight,
+        ArrowOrangeDownBig
+    }
+}

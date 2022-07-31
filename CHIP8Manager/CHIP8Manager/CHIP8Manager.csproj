@@ -1,0 +1,119 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>chip8.ico</ApplicationIcon>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\ArrowBlueDownBig.png" />
+    <None Remove="Resources\ArrowBlueLeftBig.png" />
+    <None Remove="Resources\ArrowBlueRightBig.png" />
+    <None Remove="Resources\ArrowBlueUpBig.png" />
+    <None Remove="Resources\ArrowCurveBlueLeft.png" />
+    <None Remove="Resources\ArrowCurveBlueRight.png" />
+    <None Remove="Resources\ArrowGreenDownBig.png" />
+    <None Remove="Resources\ArrowGreenLeftBig.png" />
+    <None Remove="Resources\ArrowGreenRightBig.png" />
+    <None Remove="Resources\ArrowGreenUpBig.png" />
+    <None Remove="Resources\ArrowOrangeDownBig.png" />
+    <None Remove="Resources\AutoPlay.png" />
+    <None Remove="Resources\AutoRun.png" />
+    <None Remove="Resources\BlankCd.png" />
+    <None Remove="Resources\Calculator.png" />
+    <None Remove="Resources\Chip8.png" />
+    <None Remove="Resources\Cmd.png" />
+    <None Remove="Resources\Delete.png" />
+    <None Remove="Resources\DiskDrive.png" />
+    <None Remove="Resources\Envelope.png" />
+    <None Remove="Resources\Error.png" />
+    <None Remove="Resources\FlagBlue.png" />
+    <None Remove="Resources\FlagGreen.png" />
+    <None Remove="Resources\FlagPurple.png" />
+    <None Remove="Resources\FlagRed.png" />
+    <None Remove="Resources\FlagYellow.png" />
+    <None Remove="Resources\FloppyDisk.png" />
+    <None Remove="Resources\Gear.png" />
+    <None Remove="Resources\HardDrive.png" />
+    <None Remove="Resources\help.png" />
+    <None Remove="Resources\info.png" />
+    <None Remove="Resources\Keyboard.png" />
+    <None Remove="Resources\Lightbulb.png" />
+    <None Remove="Resources\MinusBlue.png" />
+    <None Remove="Resources\Monitor.png" />
+    <None Remove="Resources\Move.png" />
+    <None Remove="Resources\PaperClipBlue.png" />
+    <None Remove="Resources\PaperClipGrey.png" />
+    <None Remove="Resources\Pen.png" />
+    <None Remove="Resources\Pencil.png" />
+    <None Remove="Resources\PlusGreen.png" />
+    <None Remove="Resources\Ram.png" />
+    <None Remove="Resources\Search.png" />
+    <None Remove="Resources\SetupInstall.png" />
+    <None Remove="Resources\StopWatch.png" />
+    <None Remove="Resources\Tip.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="chip8.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\ArrowBlueDownBig.png" />
+    <Resource Include="Resources\ArrowBlueLeftBig.png" />
+    <Resource Include="Resources\ArrowBlueRightBig.png" />
+    <Resource Include="Resources\ArrowBlueUpBig.png" />
+    <Resource Include="Resources\ArrowCurveBlueLeft.png" />
+    <Resource Include="Resources\ArrowCurveBlueRight.png" />
+    <Resource Include="Resources\ArrowGreenDownBig.png" />
+    <Resource Include="Resources\ArrowGreenLeftBig.png" />
+    <Resource Include="Resources\ArrowGreenRightBig.png" />
+    <Resource Include="Resources\ArrowGreenUpBig.png" />
+    <Resource Include="Resources\ArrowOrangeDownBig.png" />
+    <Resource Include="Resources\AutoPlay.png" />
+    <Resource Include="Resources\AutoRun.png" />
+    <Resource Include="Resources\BlankCd.png" />
+    <Resource Include="Resources\Calculator.png" />
+    <Resource Include="Resources\Chip8.png" />
+    <Resource Include="Resources\Cmd.png" />
+    <Resource Include="Resources\Delete.png" />
+    <Resource Include="Resources\DiskDrive.png" />
+    <Resource Include="Resources\Envelope.png" />
+    <Resource Include="Resources\Error.png" />
+    <Resource Include="Resources\FlagBlue.png" />
+    <Resource Include="Resources\FlagGreen.png" />
+    <Resource Include="Resources\FlagPurple.png" />
+    <Resource Include="Resources\FlagRed.png" />
+    <Resource Include="Resources\FlagYellow.png" />
+    <Resource Include="Resources\FloppyDisk.png" />
+    <Resource Include="Resources\Gear.png" />
+    <Resource Include="Resources\HardDrive.png" />
+    <Resource Include="Resources\help.png" />
+    <Resource Include="Resources\info.png" />
+    <Resource Include="Resources\Keyboard.png" />
+    <Resource Include="Resources\Lightbulb.png" />
+    <Resource Include="Resources\MinusBlue.png" />
+    <Resource Include="Resources\Monitor.png" />
+    <Resource Include="Resources\Move.png" />
+    <Resource Include="Resources\PaperClipBlue.png" />
+    <Resource Include="Resources\PaperClipGrey.png" />
+    <Resource Include="Resources\Pen.png" />
+    <Resource Include="Resources\Pencil.png" />
+    <Resource Include="Resources\PlusGreen.png" />
+    <Resource Include="Resources\Ram.png" />
+    <Resource Include="Resources\Search.png" />
+    <Resource Include="Resources\SetupInstall.png" />
+    <Resource Include="Resources\StopWatch.png" />
+    <Resource Include="Resources\Tip.png" />
+  </ItemGroup>
+
+</Project>
