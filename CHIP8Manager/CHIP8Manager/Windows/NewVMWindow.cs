@@ -70,7 +70,7 @@ namespace CHIP8Manager.Windows
 
             Label keymapLabel = new Label
             {
-                Content = Config.TEXT_NEWVM_COLORBG,
+                Content = Config.TEXT_NEWVM_KEYMAP,
                 FontWeight = FontWeights.Bold
             };
             settingsPanel.Children.Add(keymapLabel);
