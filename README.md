@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/jetspiking/CHIP-8-Manager.svg)]()
 
 # CHIP-8-Manager
-<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/ManagerWindowFilled.png" width="700">
+<img src="https://github.com/jetspiking/CHIP-8-Manager/blob/main/Images/ManagerWindowEmpty.png" width="700">
 A CHIP-8 manager that allows creating virtual CHIP-8 machines. 
 
 # Description
